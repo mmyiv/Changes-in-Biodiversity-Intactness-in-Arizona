@@ -25,7 +25,9 @@ changes-in-biodiversity-intactness-in-arizona
     │   tl_2024_04_cousub.cpg
 ```
 # Data Access
+
 **1.Biodiversity Intactness Index (BII) Time Series**
+
 Biodiversity intactness index data was accessed by the [ Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity), using the `io-biodiversity`collection. This data contains terrestrial Biodiversity Intactness maps from 2017 to 2020. To read the data, packages `pystac_client` and `planetary computer` are used to access the catalog and collection.
 
 **2. Phoenix Subdivision Shapefile** 
@@ -38,9 +40,3 @@ Microsoft Planetary Computer, STAC Catalog. Biodiversity Intactness. [Dataset]. 
 
 United States Census Bureau. 2024. Arizona County TIGER/Line Shapefiles. [Dataset]. United States Census Bureau. https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html. Accessed 5 December 2024.
 
-
-# References
-
-1. **Biodiversity Intactness Index (BII) Time Series **
-
-   Microsoft Planetary Computer. Biodiversity Intactness. [Dataset]. Microsoft. Retrieved December 5, 2024, from https://planetarycomputer.microsoft.com/dataset/io-biodiversity
